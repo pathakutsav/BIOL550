@@ -4,6 +4,6 @@ Codes for Assignments and General Purpose Genome and Bash Commands, Including Pr
 >>
 Done as a part of BIOL550 (Bioinformatics) in Fall 2023
 >>
-A1 Contains solutions to the following (A1Q4 is Question 4 from the same)-:
+A1 Contains solutions to the following (A1Q4 is Question 4 from the same)-: https://github.com/pathakutsav/BIOL550/blob/main/Assignment_1.pdf
 >>
-A2 Contains solutions to the following-:
+A2 Contains solutions to the following-: https://github.com/pathakutsav/BIOL550/blob/main/Assignment_2.pdf
