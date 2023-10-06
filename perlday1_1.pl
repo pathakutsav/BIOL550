@@ -1,0 +1,24 @@
+#!/usr/bin/perl
+@testing=();
+push(@testing,'lettuce');
+push(@testing,'tomatoes');
+push(@testing,'cheese');
+print "My element \$testing[0] value is $testing[0]\n";
+print "My element \$testing[1] value is $testing[1]\n";
+print "My element \$testing[2] value is $testing[2]\n";
+unshift(@testing,'bacon');
+print "\n";
+print "My element \$testing[0] value is $testing[0]\n";
+print "My element \$testing[1] value is $testing[1]\n";
+print "My element \$testing[2] value is $testing[2]\n";
+print "My element \$testing[3] value is $testing[3]\n";
+print "\n";
+unshift(@testing,'cucumbers');
+unshift(@testing,'mayo');
+unshift(@testing,'red peppers');
+@sort_1=sort(@testing);
+print "@sort_1\n";
+@reverse_1=reverse(@sort_1);
+print "@reverse_1\n";
+$number=@testing;
+print "Number of Items in Array=$number";
